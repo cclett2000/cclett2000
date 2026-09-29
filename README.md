@@ -1,4 +1,10 @@
-## Hello! this little doodad is under construction! 👷🏽
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Smooch+Sans&size=24&duration=2500&pause=5000&multiline=true&width=512&height=65&lines=Hello!+I'm+Charles%2C+a+software+developer+with+a+love+for+Java;...The+liquid+kind+of+course!+%E2%98%95+%28The+language+is+neat+too%29)](https://git.io/typing-svg)
+
+<br/>
+
+<a href="https://www.linkedin.com/in/charles-lett-jr-62625a1a8/">
+  <img align="left" alt="Charles Lett" width="22px" src="https://s.magecdn.com/social/mw-linkedin.svg" />
+</a>
 
 <!--
 **cclett2000/cclett2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
