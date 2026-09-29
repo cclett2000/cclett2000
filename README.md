@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Smooch+Sans&size=24&duration=2500&pause=5000&multiline=true&width=512&height=65&lines=Hello!+I'm+Charles%2C+a+software+developer+with+a+love+for+Java;...The+liquid+kind+of+course!+%E2%98%95+%28The+language+is+neat+too%29)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Smooch+Sans&size=24&duration=2500&pause=3000&multiline=true&width=512&height=65&lines=Hello!+I'm+Charles%2C+a+software+developer+with+a+love+for+Java;...The+liquid+kind+of+course!+%E2%98%95+%28The+language+is+neat+too%29)](https://git.io/typing-svg)
 
 <br/>
 
