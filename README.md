@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! this little doodad is under construction! 👷🏽
 
 <!--
 **cclett2000/cclett2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
