@@ -3,7 +3,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/charles-lett-jr-62625a1a8/">
-  <img align="left" alt="Charles Lett" width="28px" src="https://s.magecdn.com/social/mw-linkedin.svg" />
+  <img align="left" alt="Charles Lett" width="26px" src="https://s.magecdn.com/social/mw-linkedin.svg" />
   <i>Check me out on LinkedIn!</i>
 </a>
 
