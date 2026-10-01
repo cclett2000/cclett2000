@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Smooch+Sans&size=24&duration=2500&pause=2000&multiline=true&width=512&height=65&lines=Hello!+I'm+Charles%2C+a+software+developer+with+a+love+for+Java;...The+liquid+kind+of+course!+%E2%98%95+%28The+language+is+neat+too%29)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Smooch+Sans&size=24&duration=2500&pause=2000&multiline=true&width=512&height=65&lines=Hello!+I'm+Charles%2C+a+software+developer+with+a+love+for+Java;...The+liquid+kind+that+is!+%E2%98%95+%28The+language+is+neat+too%29)](https://git.io/typing-svg)
 
 I'm currently working on a custom [MP3/MPEG-4 decoder](https://github.com/cclett2000/MP3Decoder) in my free time!
 > I eventually want to write my own music player and while I can utilize existing decoders and built-in audio players, I want to learn more about file structures (byte data) and expand my knowledge and skills using .NET
