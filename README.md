@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Smooch+Sans&size=30&duration=2750&pause=1500&multiline=true&width=768&height=75&lines=Hello!👋🏼+I'm+Charles%2C+a+software+developer+with+a+love+for+Java;...the+liquid+kind+that+is!+%E2%98%95+%28The+language+is+neat+too!%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Smooch+Sans&size=30&duration=3000&pause=1500&multiline=true&width=768&height=75&lines=Hello!👋🏼+I'm+Charles%2C+a+software+developer+with+a+love+for+Java;...the+liquid+kind+that+is!+%E2%98%95+%28The+language+is+neat+too!%29)](https://git.io/typing-svg)
 
 <img align="left" alt="PHP" src="https://img.shields.io/badge/PHP-black?logo=php" />
 <img align="left" alt=".NET" src="https://img.shields.io/badge/.NET-black?logo=.net" />
