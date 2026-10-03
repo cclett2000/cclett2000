@@ -7,6 +7,7 @@
 <img align="left" alt="Git" src="https://img.shields.io/badge/Git-black?logo=git" />
 <img align="left" alt="Java" src="https://img.shields.io/badge/Java-black?logo=coffeescript" />
 <img align="left" alt="SQLite" src="https://img.shields.io/badge/SQLite-black?logo=sqlite" />
+<img align="left" alt="Linux" src="https://img.shields.io/badge/Linux-black?logo=linux" />
 
 <hr> 
 
