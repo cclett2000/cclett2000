@@ -19,7 +19,7 @@ With 3+ years of professional experience, I've built a variety of software, rang
 <hr>
 <a href="https://www.linkedin.com/in/charles-lett-jr-62625a1a8/">
   <img align="left" alt="Charles Lett" width="26px" src="https://s.magecdn.com/social/mw-linkedin.svg" />
-  <i>Check me out on LinkedIn!</i>
+  <i>Speaking of shameless copy/pasting, check me out on LinkedIn!</i>
 </a>
 
 <!--
