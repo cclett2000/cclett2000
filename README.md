@@ -2,8 +2,8 @@
 
 <img align="left" alt="PHP" src="https://img.shields.io/badge/PHP-black?logo=php" />
 <img align="left" alt=".NET" src="https://img.shields.io/badge/.NET-black?logo=.net" />
-<img align="left" alt="MySQL" src="https://img.shields.io/badge/MySQL-black?logo=mysql" />
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-black?logo=javascript" />
+<img align="left" alt="MySQL" src="https://img.shields.io/badge/MySQL-black?logo=mysql" />
 <img align="left" alt="Git" src="https://img.shields.io/badge/Git-black?logo=git" />
 <img align="left" alt="Java" src="https://img.shields.io/badge/Java-black?logo=coffeescript" />
 <img align="left" alt="SQLite" src="https://img.shields.io/badge/SQLite-black?logo=sqlite" />
