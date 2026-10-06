@@ -18,7 +18,7 @@ I'm currently working on a custom [MP3/MPEG-4 decoder](https://github.com/cclett
 
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Smooch+Sans&size=30&duration=6144&pause=16384&vCenter=true&width=435&height=30&lines=My+Favorite+Project%28s%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Smooch+Sans&size=30&duration=6144&pause=16384&vCenter=true&width=435&height=30&lines=Favorite+Project%28s%29)](https://git.io/typing-svg)
 
 Database Management Application - [bearDB](https://github.com/cclett2000/bearDB)
 > One of my first real-world and somewhat large scale projects outside of university. Using a blend of Java, JavaFX, and SQLite, I created a desktop CRUD application from the ground up to replace a legacy solution. I also used my dog Bear for the logo! Definitely a highlight and a project I look back on fondly.
