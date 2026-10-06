@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Smooch+Sans&size=30&duration=3000&pause=1500&multiline=true&width=768&height=75&lines=Hello!👋🏼+I'm+Charles%2C+a+software+developer+with+a+love+for+Java;...the+liquid+kind+that+is!+%E2%98%95+%28The+language+is+neat+too!%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Smooch+Sans&size=30&duration=3000&pause=1500&multiline=true&width=768&height=75&&lines=Hello!👋🏼+I'm+Charles%2C+a+software+developer+with+a+love+for+Java;...the+liquid+kind+that+is!+%E2%98%95+%28The+language+is+neat+too!%29)](https://git.io/typing-svg)
 
 <img align="left" alt="PHP" src="https://img.shields.io/badge/PHP-black?logo=php" />
 <img align="left" alt=".NET" src="https://img.shields.io/badge/.NET-black?logo=.net" />
@@ -17,22 +17,14 @@ With 3+ years of professional experience, I've built a variety of software, rang
 >> Eventually, I want to create a custom music player and while I can utilize existing decoders and built-in audio players, I want to learn more about file structures (byte data) and expand my knowledge/skills with .NET!
 
 <hr>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Smooch+Sans&size=30&duration=3000&pause=1500&vCenter=true&width=435&height=30&lines=My+Favorite+Project%28s%29)](https://git.io/typing-svg)
+
+Database Management Application - [bearDB](https://github.com/cclett2000/bearDB)
+> One of my first real-world and somewhat large scale projects outside of university. Using a blend of Java, JavaFX, and SQLite, I created a desktop CRUD application from the ground up to replace a legacy application. I also used my dog Bear for the logo! Definitely a highlight and a project I look back on fondly.
+
+<hr>
 <a href="https://www.linkedin.com/in/charles-lett-jr-62625a1a8/">
   <img align="left" alt="Charles Lett" width="26px" src="https://s.magecdn.com/social/mw-linkedin.svg" />
   <i>Speaking of shameless copy/pasting, check me out on LinkedIn!</i>
 </a>
-
-<!--
-**cclett2000/cclett2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
