@@ -21,7 +21,7 @@ With 3+ years of professional experience, I've built a variety of software, rang
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Smooch+Sans&size=30&duration=3000&pause=1500&vCenter=true&width=435&height=30&lines=My+Favorite+Project%28s%29)](https://git.io/typing-svg)
 
 Database Management Application - [bearDB](https://github.com/cclett2000/bearDB)
-> One of my first real-world and somewhat large scale projects outside of university. Using a blend of Java, JavaFX, and SQLite, I created a desktop CRUD application from the ground up to replace a legacy application. I also used my dog Bear for the logo! Definitely a highlight and a project I look back on fondly.
+> One of my first real-world and somewhat large scale projects outside of university. Using a blend of Java, JavaFX, and SQLite, I created a desktop CRUD application from the ground up to replace a legacy solution. I also used my dog Bear for the logo! Definitely a highlight and a project I look back on fondly.
 
 <hr>
 <a href="https://www.linkedin.com/in/charles-lett-jr-62625a1a8/">
