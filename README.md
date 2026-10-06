@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Smooch+Sans&size=30&duration=3000&pause=1500&multiline=true&width=768&height=75&&lines=Hello!👋🏼+I'm+Charles%2C+a+software+developer+with+a+love+for+Java;...the+liquid+kind+that+is!+%E2%98%95+%28The+language+is+neat+too!%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Smooch+Sans&size=36&duration=3072&pause=4096&multiline=false&width=768&height=40&vCenter=true&lines=Hello!👋🏼+I'm+Charles%2C+a+software+developer+with+a+love+for+Java;...the+liquid+kind+that+is!+%E2%98%95+%28The+language+is+neat+too!%29)](https://git.io/typing-svg)
 
 <img align="left" alt="PHP" src="https://img.shields.io/badge/PHP-black?logo=php" />
 <img align="left" alt=".NET" src="https://img.shields.io/badge/.NET-black?logo=.net" />
@@ -18,7 +18,7 @@ With 3+ years of professional experience, I've built a variety of software, rang
 
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Smooch+Sans&size=30&duration=3000&pause=1500&vCenter=true&width=435&height=30&lines=My+Favorite+Project%28s%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Smooch+Sans&size=30&duration=6144&pause=16384&vCenter=true&width=435&height=30&lines=My+Favorite+Project%28s%29)](https://git.io/typing-svg)
 
 Database Management Application - [bearDB](https://github.com/cclett2000/bearDB)
 > One of my first real-world and somewhat large scale projects outside of university. Using a blend of Java, JavaFX, and SQLite, I created a desktop CRUD application from the ground up to replace a legacy solution. I also used my dog Bear for the logo! Definitely a highlight and a project I look back on fondly.
