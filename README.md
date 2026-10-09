@@ -14,6 +14,7 @@
 With 3+ years of professional experience, I've built a variety of software, ranging from bioinformatic algorithms to robust mobile, desktop, and web applications. I’ve also worked closely on large-scale enterprise software, improving performance, remediating security vulnerabilities, and introducing new functionality.  _--Totally not a shameless copy/paste from my LinkedIn_
 
 I'm currently working on a custom [MP3/MPEG-4 decoder](https://github.com/cclett2000/MP3Decoder) in my free time!
+<img align="right" alt=".NET" src="https://img.shields.io/badge/.NET-black?logo=.net" />
 > Eventually, I want to create a custom music player and while I can utilize existing decoders and built-in audio players, I want to learn more about file structures (byte data) and expand my knowledge/skills with .NET!
 
 <hr>
