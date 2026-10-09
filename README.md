@@ -18,7 +18,7 @@ I'm currently working on a custom [MP3/MPEG-4 decoder](https://github.com/cclett
 
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Smooch+Sans&size=28&duration=12288&pause=32768&vCenter=true&width=435&height=30&lines=Favorite+Projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Smooch+Sans&size=28&duration=8192&pause=8192&vCenter=true&width=435&height=30&lines=Favorite+Projects)](https://git.io/typing-svg)
 
 Database Management Application - [bearDB](https://github.com/cclett2000/bearDB) 
 <img align="right" alt="SQLite" src="https://img.shields.io/badge/SQLite-black?logo=sqlite" />
