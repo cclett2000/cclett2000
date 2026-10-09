@@ -28,7 +28,7 @@ Database Management Application - [bearDB](https://github.com/cclett2000/bearDB)
 > One of my first real-world and somewhat large scale projects outside of university, I created a desktop CRUD application from the ground up to replace a legacy solution. Definitely a highlight and a project I look back on fondly.
 
 <hr>
-<a href="https://www.linkedin.com/in/charles-lett-jr-62625a1a8/">
+<a href="https://www.linkedin.com/in/charles-lett-jr-software-engineering/">
   <img align="left" alt="Charles Lett" width="26px" src="https://s.magecdn.com/social/mw-linkedin.svg" />
   <i>Speaking of shameless copy/pasting, check me out on LinkedIn!</i>
 </a>
