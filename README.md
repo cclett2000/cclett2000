@@ -30,6 +30,6 @@ Database Management Application - [bearDB](https://github.com/cclett2000/bearDB)
 
 <hr>
 <a href="https://www.linkedin.com/in/charles-lett-jr-software-engineering/">
-  <img align="left" alt="Charles Lett" width="32px" src="https://s.magecdn.com/social/tc-linkedin.svg" />
+  <img align="left" alt="Charles Lett" width="30px" src="https://s.magecdn.com/social/tc-linkedin.svg" />
   <i>Speaking of shameless copy/pasting, check me out on LinkedIn!</i>
 </a>
